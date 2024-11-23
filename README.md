@@ -1,18 +1,27 @@
-#Installasi
-> install [git](https://git-scm.com/downloads)
+# Get Metadata NFT Solana
+## Prerequisites
 
-> install [node js](https://nodejs.org/en)
+- [Git](https://git-scm.com/downloads)
+- [Node.js](https://nodejs.org/en)
 
-#Setup
-> change YOUR_SIMPLEHASH_API_KEY to your hash (Register)[https://app.simplehash.com/]
+## Setup
 
-> change COLLECTION_ADDRESS to your collection address
+1. Register at [SimpleHash](https://app.simplehash.com/) to get your API key
+2. Replace `YOUR_SIMPLEHASH_API_KEY` in the code with your actual API key
+3. Replace `COLLECTION_ADDRESS` with your NFT collection address
 
-#Start
-> git clone https://github.com/devkazuto/get-metadata-nft-solana.git
+## Installation
 
-> cd get-metadata-nft-solana
+```bash
+# Clone the repository
+git clone https://github.com/devkazuto/get-metadata-nft-solana.git
 
-> npm i
+# Navigate to project directory
+cd get-metadata-nft-solana
 
-> node index.js
+# Install dependencies
+npm install
+
+# Run the application
+node index.js
+```

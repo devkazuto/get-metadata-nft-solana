@@ -6,8 +6,8 @@
 
 ## Setup
 
-1. Register at [SimpleHash](https://app.simplehash.com/) to get your API key
-2. Replace `YOUR_SIMPLEHASH_API_KEY` in the code with your actual API key
+1. Register at [SimpleHash](https://www.helius.dev/) to get your API key
+2. Replace `HELIUS_API_KEY` in the code with your actual API key
 3. Replace `COLLECTION_ADDRESS` with your NFT collection address
 
 ## Installation
